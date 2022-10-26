@@ -3,6 +3,7 @@
      Recommendation System (Sequential Recommendation, User Modeling), Information Retrieval and Multi-Modal (Vision & Language), etc.
 - 📫 xyz (-at~) mail.bnu.edu.cn
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xyznlp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 - 🌱 I’m currently learning ...
